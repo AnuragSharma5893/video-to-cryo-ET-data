@@ -30,3 +30,12 @@ It's important to know that you can't directly use the original 3D-ResNet34 mean
 Then please replace the 3D-ResNet model with pre-trained VideoMAE and do the same thing. We don’t need to finetune the [VideoMAE](https://github.com/MCG-NJU/VideoMAE) model or apply any masking on input. Just use the frozen VideoMAE model as a feature extractor for the input subtomograms. Compare the t-SNE features of 3D-ResNet and VideoMAE. 
 
 
+
+# Output 
+
+<img width="720" height="600" alt="image" src="https://github.com/user-attachments/assets/9bc3371e-ca76-4e3a-bb2b-43a661209840" />
+
+
+<img width="720" height="600" alt="image" src="https://github.com/user-attachments/assets/942267f4-2bb6-4e45-90c4-1a2ae5584331" />
+
+
